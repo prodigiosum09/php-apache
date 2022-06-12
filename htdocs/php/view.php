@@ -2,7 +2,7 @@
   $user = 'root';
   $password = 'root';
   $dbName = 'chapter6_db';
-  $host = 'localhost:8889';
+  $host = 'mysql:8889';
   $dsn = "mysql:host={$host};dbname={$dbName};charset=utf8";
 ?>
 
